@@ -1,5 +1,3 @@
-package cse214hw2;
-
 public class MyTreeTest {
     public static void main(String[] args) {
         DynamicIntegerSet set = new DynamicIntegerSet();
